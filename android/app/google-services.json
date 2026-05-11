@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561645060195",
+    "project_id": "memeapp-758a4",
+    "storage_bucket": "memeapp-758a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561645060195:android:3eb0ca4bc98571be227856",
+        "android_client_info": {
+          "package_name": "com.example.meme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeIY15SyTvqEaVXaj-0Jexr5PmCgkcBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
