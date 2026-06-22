@@ -169,3 +169,4 @@ This project is licensed under the MIT License.
 
 ---
 
+⭐ If you found this project interesting, consider giving it a star on GitHub
