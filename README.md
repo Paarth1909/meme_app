@@ -160,8 +160,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Parth Rastogi**
-
-BCA Student | Flutter Developer | Firebase & Supabase Enthusiast
+| Flutter Developer | Firebase & Supabase Enthusiast
 
 ## 📜 License
 
